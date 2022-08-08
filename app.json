@@ -29,6 +29,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "A marketplace for stuff you don't want"
+    "description": "A digital display for games you've beaten"
   }
 }
